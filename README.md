@@ -42,13 +42,13 @@ This Power BI dashboard provides a detailed analysis of production performance u
 ## 🖼️ Dashboard Views
 
 ### 🔹 Default View (No Filters Applied)
-![Default View](porOperador.png)
+![Default View](general.png)
 
 ### 🔹 Filtered by Operator
-![Filtered by Operator](image_placeholder_2.png)
+![Filtered by Operator](porOperador.png)
 
 ### 🔹 Filtered by Month
-![Filtered by Month](image_placeholder_3.png)
+![Filtered by Month](porMes.png)
 
 ## 🔍 Conclusions
 - The dashboard provides a clear **overview of production efficiency**.
